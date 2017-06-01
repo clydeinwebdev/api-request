@@ -5,7 +5,7 @@
         version   = "1.0.0">
     <name>API Request</name>
     <description>API Request</description>
-    <icon src="img/chester.png" />
+    <icon src="chester.png" />
 
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<allow-navigation href="http://*/*" />
